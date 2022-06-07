@@ -29,3 +29,5 @@ $$u_t - v(x, t) g f(t) x - Du_{xx}=0$$
 $$v_t + u(x, t) g f(t) x - Dv_{xx}=0$$
 
 where $f(x)$ is the envelope function of the external magnetic field.
+
+![PINN Performance](https://github.com/ucoskun/bloch-torrey-pinn/blob/main/plot.png?raw=true)
