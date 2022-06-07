@@ -1,3 +1,5 @@
+__Code__: bloch_torrey_pinn.ipynb
+
 **References:**
 
 **[1]** Kenkre et. al. Simple Solutions of the Torrey–Bloch Equations
